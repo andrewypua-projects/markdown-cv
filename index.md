@@ -72,7 +72,7 @@ Shahzad Munir (2017 - 2021): Essays on Testing Deviations from Normality (with P
 
 Low Cheng Hui (2020 - present): A Monte Carlo Analysis of the KPSS Test and Its Recent Modifications. 
 
-Iry Notoavina Randarimalala
+Iry Notoavina Randarimalala:
 
 #### university of amsterdam
 
